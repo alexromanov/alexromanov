@@ -16,7 +16,7 @@ I'm interested in **test engineering, blockchain, cryptography, distributed syst
 - 📝 I blog about testing, blockchains and distributed systems in ***"Test Engineering Notes"*** **[blog](https://testengineeringnotes.com/)** and **[Telegram channel](@testengineering)**
 - 🎸 I do [talks at conferences and webinars](https://testengineeringnotes.com/talks/)
 - 🎤 I'm a co-host of **[Testing Minutes podcast](https://youtu.be/jcbc1YOSHT8?si=d7siLc83FfrfGcNS)**
-- 📖 I write **[articles]([articles](https://www.getxray.app/blog/testability-in-the-software-development-lifecycle))** and **monthly [testing digests](https://dou.ua/users/alexandr-romanov/articles/)**
+- 📖 I write **[articles](https://www.getxray.app/blog/testability-in-the-software-development-lifecycle)** and **monthly [testing digests](https://dou.ua/users/alexandr-romanov/articles/)**
 
 ## Skills and Technologies
 
